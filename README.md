@@ -1,1 +1,2 @@
 # PvPower
+Celem projektu jest przeprowadzenie analizy i jej aktualizacja dla wydajności danej sieci energetycznej względem instalacji fotowoltaicznej. Analiza polega na wyliczeniu mocy instalacji fotowoltaicznych na danym obszarze wylicznej ze zdjęć satelitarnych dachów. Program będzie wykrywało powierzchnie paneli na zdjęciach i wyliczanie mocy. Dodatkowo zostanie popbrana informacja o sieciach energetycznych w danym
